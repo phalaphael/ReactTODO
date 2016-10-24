@@ -1,7 +1,7 @@
 {
-  "name": "boilerplate",
+  "name": "ReactTODO",
   "version": "1.0.0",
-  "description": "Simple react app",
+  "description": "Simple react app - course from Udemy",
   "main": "index.js",
   "scripts": {
     "test": "karma start",
