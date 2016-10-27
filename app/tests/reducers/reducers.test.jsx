@@ -54,7 +54,6 @@ describe('Reducers', () => {
       expect(res[0].completed).toEqual(false);
       expect(res[0].completedAt).toEqual(undefined);
 
-
     });
   });
 });
